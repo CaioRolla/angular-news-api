@@ -17,8 +17,8 @@ Import the `AppRoutingModule` into your app module and configure your API Key:
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
-import { NgnewsModule } from 'ng-newsapi';
-import { NewsApiKeyConfig } from 'ng-newsapi';
+import { NgnewsModule } from 'angular-news-api';
+import { NewsApiKeyConfig } from 'angular-news-api';
 
 const newsApiConfig: NewsApiKeyConfig = {
   key: 'API_KEY_FROM_NEWS_API'
