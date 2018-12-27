@@ -1,9 +1,15 @@
 {
-  "name": "ngnews",
-  "version": "0.0.1",
+  "name": "ng-news-api",
+  "version": "0.0.2",
   "peerDependencies": {
     "@angular/common": "^7.1.0",
     "@angular/core": "^7.1.0",
     "newsapi": "^2.4.0"
-  }
+  },
+  "keywords": [
+    "Angular",
+    "News API",
+    "News",
+    "Headlines"
+  ]
 }
