@@ -1,4 +1,4 @@
-# NewsAPI - A Angular Interface for NewsAPI
+# NewsAPI - An Angular Interface for NewsAPI
 
 This Library provides everything you need to use the NewsAPI from you Angular app the way it should be: using Observables, Types and Dependency Injection.
 
