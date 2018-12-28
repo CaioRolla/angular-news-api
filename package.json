@@ -1,5 +1,5 @@
 {
-  "name": "ng-news-api",
+  "name": "angular-news-api",
   "version": "0.0.7",
   "peerDependencies": {
     "@angular/common": "^7.1.0",
