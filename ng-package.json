@@ -3,5 +3,8 @@
   "dest": "../../dist/ngnews",
   "lib": {
     "entryFile": "src/public_api.ts"
-  }
+  },
+  "whitelistedNonPeerDependencies": [
+    "newsapi"
+  ]
 }
