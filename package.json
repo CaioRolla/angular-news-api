@@ -1,9 +1,12 @@
 {
   "name": "ng-news-api",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "peerDependencies": {
     "@angular/common": "^7.1.0",
-    "@angular/core": "^7.1.0",
+    "@angular/core": "^7.1.0"
+  },
+  "dependencies": {
+    "tslib": "^1.9.0",
     "newsapi": "^2.4.0"
   },
   "keywords": [
@@ -11,5 +14,14 @@
     "News API",
     "News",
     "Headlines"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CaioRolla/angular-news-api.git"
+  },
+  "author": "CaioRolla",
+  "bugs": {
+    "url": "https://github.com/CaioRolla/angular-news-api/issues"
+  },
+  "homepage": "https://caiorolla.github.io/"
 }
