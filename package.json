@@ -1,9 +1,9 @@
 {
   "name": "angular-news-api",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "peerDependencies": {
-    "@angular/common": "^7.1.0",
-    "@angular/core": "^7.1.0"
+    "@angular/common": "^7.x|^8.x|^9.x",
+    "@angular/core": "^7.x|^8.x|^9.x*"
   },
   "dependencies": {
     "tslib": "^1.9.0",
